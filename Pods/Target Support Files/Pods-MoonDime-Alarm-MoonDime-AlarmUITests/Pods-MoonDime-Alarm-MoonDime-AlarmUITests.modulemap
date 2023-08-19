@@ -1,0 +1,6 @@
+framework module Pods_MoonDime_Alarm_MoonDime_AlarmUITests {
+  umbrella header "Pods-MoonDime-Alarm-MoonDime-AlarmUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
