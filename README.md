@@ -1,15 +1,44 @@
-# 📍Location Alarm
+# MoonDime - Proof of Concept
 
-Select a location on the map, and your phone will ring when you are around it.
-So you won't forget about the grocery when you are around the store, and won't miss your station while falling asleep 😃.
+While systematic investment plans allow for a user to set small recurring purchases, MoonDime as an app gamifies this with real time triggers towards small investments into chosen cryptocurrencies.
+On top of the users initial investments the user is incentivized to use the application via a native ethereum token "MoonDime (MDT)" currently on the Goerli Ethereum Testnet awarded on eachround of investment.
+This application is a take on the concept of investing spare change or tiny amounts through the day, only to withdraw if there is a large spike in certain cryptocurrencies. The upsides could be large and the downside would be one incurring losses in the form of change through time.
 
-# 🖼️ Screenshots
+ A clear example of how the app would work may be, a user choosing location as a trigger, this could be the user's office - upon reaching his/her office on a daily basis, a tiny user set amount like 4HKD could be invested towards an equivalent coin such as ethereum along with 1 MDT received in the users' web3 wallet. At any point in time, the user could withdraw the fiat balance by converting the portfolio of coins and MDT with a minor trading fee. 
 
-| <img src="https://i.imgur.com/ZdQHuEi.png" width="300"> | <img src="https://i.imgur.com/G9fAPkV.png" width="300"> |
+# 🖼️ Screenshot Walk Through
+
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="https://i.imgur.com/2EAMEv9.png" width="300"> | <img src="https://i.imgur.com/P5hMqL6.png" width="300"> |
+| <img src="https://i.imgur.com/8P5oycO.png" width="300"> | <img src="https://i.imgur.com/KHysBgB.png" width="300"> |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+The user is required to fill in a web3 wallet address that will be used to store the assets, an email and choose a password to sign into the application.
 
-# 📽️ [Demo Video](https://youtu.be/ojEqkUn_B8A)
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="https://i.imgur.com/pBG37jh.png" width="300"> | <img src="https://i.imgur.com/G1ZD0Cp.png" width="300"> |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="https://i.imgur.com/p7UYWx9.png" width="300"> | <img src="https://i.imgur.com/BoXgUlo.png" width="300"> |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+Showcase the flow of a user creating a trigger on an iOS 12+ device. The flow goes from adding a label - one could have several triggers so a nickname helps) followed by setting a location and its range followed by finally showcasing the trigger set and enabled.
+After creating triggers the user may decide if he wishes to keep these “on” or “off”.
+
+| ------------------------------------------------------- |
+| <img src="https://i.imgur.com/jMK2JNF.png" width="700"> |
+| ------------------------------------------------------- |
+The result of simulating a location on the device itself, triggering this prompt which will send a minor ring if the app is open during the timeof event being triggered. The prompt showcases current wallet balance in test Ethereum (or the amount of MoonDime is now present in wallet).
+If the app is closed a notification can be posted with any relevant detail passed along.
+
+| ------------------------------------------------------- |
+| <img src="https://i.imgur.com/j0t3skw.png" width="700"> |
+| ------------------------------------------------------- |
+Showcases the MoonDime Token Minted into the user's wallet.
+
+| ------------------------------------------------------- |
+| <img src="https://i.imgur.com/jnIhESR.png" width="700"> |
+| ------------------------------------------------------- |
+Showcases the transfer of ETH into the users wallet.
+
+
+
 
 # 📝 Notes
 
